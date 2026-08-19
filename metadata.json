@@ -1,0 +1,6 @@
+{
+  "name": "Lumière - Luxury Beauty Salon",
+  "description": "A luxury, minimalist beauty parlour and salon experience featuring bespoke hair, skin, bridal rituals, and a live reception concierge admin desk for managing appointments in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
