@@ -354,7 +354,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'gal-1',
     title: 'Architectural Waves',
     category: 'hair',
-    image: '/image/Front1.png',
+    image: '/image/hairgal1.png',
     aspect: 'portrait',
     description: 'Soft dimensional texture with honey gloss.'
   },
@@ -410,7 +410,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'gal-8',
     title: 'Sunlit Precision Cut',
     category: 'hair',
-    image: '/image/Front1.png',
+    image: '/image/hairgal2.png',
     aspect: 'square',
     description: 'French curtain fringe and layered movement.'
   }
