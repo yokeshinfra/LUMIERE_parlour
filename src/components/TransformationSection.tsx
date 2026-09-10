@@ -64,7 +64,7 @@ export default function TransformationSection() {
                     className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                     loading="lazy"
                     onError={(e) => {
-                      (e.currentTarget as HTMLImageElement).src = 'https://images.unsplash.com/photo-1560869713-7d0a29430803?q=80&w=900&auto=format&fit=crop';
+                      (e.currentTarget as HTMLImageElement).src = '/image/afterImage.png';
                     }}
                   />
                   <span className="absolute top-3 left-3 px-3 py-1 text-[10px] uppercase tracking-[0.2em] font-medium bg-[#B7A17A] text-[#1C1C1A] font-semibold backdrop-blur-xs flex items-center gap-1">
