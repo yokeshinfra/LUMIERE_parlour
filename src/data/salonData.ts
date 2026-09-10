@@ -131,7 +131,7 @@ export const SERVICES: ServiceCardData[] = [
     name: 'Makeup',
     tagline: 'Party · Engagement · Bridal',
     description: 'Understated, skin-first makeup artistry designed to enhance your authentic bone structure and effortless grace.',
-    image: 'https://images.unsplash.com/photo-1512496015851-a90fb38ba796?q=80&w=1200&auto=format&fit=crop',
+    image: '/image/Skin.png',
     features: ['High-Definition Dewy Skin', 'Subtle Red Carpet Sculpt', 'Lash Enhancement & Brow Architecture', 'Long-Wear Velvet Finish'],
     treatments: [
       {
@@ -179,7 +179,7 @@ export const SERVICES: ServiceCardData[] = [
     name: 'Nails',
     tagline: 'Manicure · Pedicure · Nail Art',
     description: 'Impeccable cuticle care, non-toxic formulations, and minimalist editorial designs on pristine nail beds.',
-    image: 'https://images.unsplash.com/photo-1632345031435-8727f6897d53?q=80&w=1200&auto=format&fit=crop',
+    image: '/image/Nail.png',
     features: ['Apothecary Herb Manicure', 'Warm Milk & Honey Pedicure', 'Minimalist Micro-Art', 'Builder Gel Sculpting'],
     treatments: [
       {
