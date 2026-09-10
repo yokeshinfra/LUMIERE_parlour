@@ -18,7 +18,7 @@ export default function AppointmentCta({ onOpenBooking }: AppointmentCtaProps) {
               className="w-full h-full object-cover grayscale"
               loading="lazy"
               onError={(e) => {
-                (e.currentTarget as HTMLImageElement).src = 'https://images.unsplash.com/photo-1560869713-7d0a29430803?q=80&w=1200&auto=format&fit=crop';
+                (e.currentTarget as HTMLImageElement).src = '/image/nail-after.png';
               }}
             />
           </div>
