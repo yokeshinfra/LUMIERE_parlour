@@ -108,7 +108,7 @@ export default function BrandExperience() {
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 pt-4">
               <div className="aspect-[4/3] overflow-hidden rounded-xs border border-[#E8E0D4] bg-[#E8E0D4]/20 p-1.5">
                 <img
-                  src="https://images.unsplash.com/photo-1629198658000-7332617e8b24?q=80&w=800&auto=format&fit=crop"
+                  src="/image/shop.png"
                   alt="Lumière serene interior styling"
                   className="w-full h-full object-cover"
                   loading="lazy"
