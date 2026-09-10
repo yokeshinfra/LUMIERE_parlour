@@ -279,8 +279,8 @@ export const TRANSFORMATIONS: TransformationItem[] = [
     title: 'Sunlit Champagne Balayage',
     category: 'Hair Artistry',
     description: 'Transitioned dull brassy lengths into seamless, dimension-rich champagne tones with soft face-framing ribbons.',
-    beforeImage: 'https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=80&w=900&auto=format&fit=crop',
-    afterImage: '/image/Front1.png',
+    beforeImage: '/image/hair-befor.png',
+    afterImage: '/image/hair-after.png',
     treatmentName: 'Custom Balayage & Silk Infusion',
     artisan: 'Elise Dupont, Master Colorist'
   },
@@ -289,8 +289,8 @@ export const TRANSFORMATIONS: TransformationItem[] = [
     title: 'Glass-Skin Cellular Glow',
     category: 'Skin Renewal',
     description: 'Alleviated skin congestion and barrier fatigue, restoring plump hydration, sculpted cheekbones, and effortless light reflection.',
-    beforeImage: 'https://images.unsplash.com/photo-1509967419530-da38b4704bc6?q=80&w=900&auto=format&fit=crop',
-    afterImage: '/image/Front2.png',
+    beforeImage: '/image/skin-before.png',
+    afterImage: '/image/skin-after.png',
     treatmentName: '24K Botanical Radiance Facial',
     artisan: 'Claire Vane, Lead Aesthetician'
   },
@@ -299,8 +299,8 @@ export const TRANSFORMATIONS: TransformationItem[] = [
     title: 'Understated Bridal Radiance',
     category: 'Bridal Artistry',
     description: 'Subtle high-fashion bridal aesthetic with seamless dewy skin base, rose-gold eye accents, and natural sculpted lips.',
-    beforeImage: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=900&auto=format&fit=crop',
-    afterImage: '/image/Bride.png',
+    beforeImage: '/image/bride-before.png',
+    afterImage: '/image/bride-after.png',
     treatmentName: 'The Couture Bride Look',
     artisan: 'Aria Sharma, Bridal Director'
   },
@@ -309,8 +309,8 @@ export const TRANSFORMATIONS: TransformationItem[] = [
     title: 'Minimalist Micro-French Sculpt',
     category: 'Nail Architecture',
     description: 'Shortened fragile nails renewed with natural builder gel overlays, finished with micro champagne-chrome edging.',
-    beforeImage: 'https://images.unsplash.com/photo-1604654894610-df63bc536371?q=80&w=900&auto=format&fit=crop',
-    afterImage: 'https://images.unsplash.com/photo-1632345031435-8727f6897d53?q=80&w=900&auto=format&fit=crop',
+    beforeImage: '/image/nail-before.png',
+    afterImage: '/image/nail-after.png',
     treatmentName: 'Builder Gel & Minimal Chrome Art',
     artisan: 'Mei Lin, Nail Artisan'
   }

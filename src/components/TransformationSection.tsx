@@ -43,7 +43,7 @@ export default function TransformationSection() {
                     className="w-full h-full object-cover grayscale-[20%]"
                     loading="lazy"
                     onError={(e) => {
-                      (e.currentTarget as HTMLImageElement).src = 'https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=80&w=900&auto=format&fit=crop';
+                      (e.currentTarget as HTMLImageElement).src = '/image/hair-before.png';
                     }}
                   />
                   <span className="absolute top-3 left-3 px-3 py-1 text-[10px] uppercase tracking-[0.2em] font-medium bg-[#1C1C1A]/80 text-[#F7F4EE] backdrop-blur-xs">
