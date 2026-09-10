@@ -12,8 +12,8 @@ export const SALON_INFO = {
   email: 'yokeshkb2002@gmail.com',
   instagram: 'shysnapster',
   instagramUrl: 'https://instagram.com/shysnapster',
-  github: 'yokeshinfre',
-  githubUrl: 'https://github.com/yokeshinfre',
+  github: 'yokeshnet',
+  githubUrl: 'https://github.com/yokeshnet',
   hours: [
     { days: 'Monday – Friday', time: '09:30 AM – 08:30 PM' },
     { days: 'Saturday – Sunday', time: '09:00 AM – 09:00 PM' },
